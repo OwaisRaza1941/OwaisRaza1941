@@ -18,18 +18,20 @@
 ---
 
 ## 📊 Skill Progress
-
-### Dart
-![Dart](https://img.shields.io/badge/Dart-90%25-blue)
-
 ### Flutter
-![Flutter](https://img.shields.io/badge/Flutter-85%25-blue)
+![Flutter](https://progress-bar.dev/85/?title=Flutter&width=300&color=02569B)
 
-### HTML
-![HTML](https://img.shields.io/badge/HTML-80%25-orange)
+### Dart  
+![Dart](https://progress-bar.dev/90/?title=Dart&width=300&color=0175C2)
 
-### CSS
-![CSS](https://img.shields.io/badge/CSS-75%25-yellow)
+### HTML  
+![HTML](https://progress-bar.dev/80/?title=HTML&width=300&color=E34F26)
+
+### CSS  
+![CSS](https://progress-bar.dev/75/?title=CSS&width=300&color=1572B6)
+
+### UI/UX  
+![UI/UX](https://progress-bar.dev/70/?title=UI/UX&width=300&color=FF6B6B)
 
 ---
 
