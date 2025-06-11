@@ -19,12 +19,17 @@
 
 ## 📊 Skill Progress
 
-| Skill   | Level |
-|---------|-------|
-| Dart    | ![Dart](https://progress-bar.dev/90/) |
-| Flutter | ![Flutter](https://progress-bar.dev/85/) |
-| HTML    | ![HTML](https://progress-bar.dev/80/) |
-| CSS     | ![CSS](https://progress-bar.dev/75/) |
+### Dart
+![Dart](https://img.shields.io/badge/Dart-90%25-blue)
+
+### Flutter
+![Flutter](https://img.shields.io/badge/Flutter-85%25-blue)
+
+### HTML
+![HTML](https://img.shields.io/badge/HTML-80%25-orange)
+
+### CSS
+![CSS](https://img.shields.io/badge/CSS-75%25-yellow)
 
 ---
 
