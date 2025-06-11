@@ -1,3 +1,8 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/OwaisRaza1941/OwaisRaza1941/blob/main/OwaisRaza_GitHub_Banner.png" alt="Owais Raza Banner"/>
+</p>
+
 # Hi There 👋
 
 ## I'm Owais Raza!
@@ -18,6 +23,7 @@
 ---
 
 ## 📊 Skill Progress
+
 ### Flutter
 ![Flutter](https://img.shields.io/badge/Flutter-85%25-02569B?style=flat-square&logo=flutter&logoColor=white)
 
