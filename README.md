@@ -9,6 +9,25 @@
 
 ---
 
+## 🔥 My Skills 🔥
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter%20Developer;Dartpad%20Expert;HTML%20CSS%20Pro;Problem%20Solver;UI%2FUX%20Designer&center=true&width=500&height=50">
+</p>
+
+---
+
+## 📊 Skill Progress
+
+| Skill   | Level |
+|---------|-------|
+| Dart    | ![Dart](https://progress-bar.dev/90/) |
+| Flutter | ![Flutter](https://progress-bar.dev/85/) |
+| HTML    | ![HTML](https://progress-bar.dev/80/) |
+| CSS     | ![CSS](https://progress-bar.dev/75/) |
+
+---
+
 ## 🔗 Contact
 
 - 📩 [LinkedIn](https://www.linkedin.com/in/owais-raza-47273a347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
