@@ -1,79 +1,49 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://github.com/OwaisRaza1941/OwaisRaza1941/blob/main/OwaisRaza_GitHub_Banner.png" alt="Owais Raza Banner"/>
+# 👋 Hi, I'm Owais Raza
+
+🚀 **Flutter Developer | Frontend Specialist | UI/UX Enthusiast**
+
+✨ _Building beautiful, fast, and responsive apps for Android, iOS, and Web._
+
+**Frontend & Back**
+
+---
+
+## 🧰 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
 </p>
 
-# Hi There 👋
+---
 
-## I'm Owais Raza!
+## 🌱 Currently Exploring
 
-🚀 Passionate Web & Mobile App Developer | Flutter Enthusiast  
-💻 Skilled in Flutter, Dartpad, HTML, CSS  
-📱 Helping businesses go digital with modern apps  
-🌟 Let’s code something amazing together!
+- 📱 **Advanced Flutter UI Animations**
+- ⚙️ **GetX State Management (Advanced Concepts)**
+- 💾 **Local Storage (SQLite, Shared Preferences, File Handling)**
+- ☁️ **Firebase Authentication & Firestore Integration**
+- 🎨 **Responsive Portfolio Website in Flutter**
 
 ---
 
-## 🔥 My Skills 🔥
+## 💡 GitHub Highlights
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Flutter%20Developer;Dartpad%20Expert;HTML%20CSS%20Pro;Problem%20Solver;UI%2FUX%20Designer&center=true&width=500&height=50">
-</p>
-
----
-
-## 📊 Skill Progress
-
-### Flutter
-![Flutter](https://img.shields.io/badge/Flutter-85%25-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-### Dart
-![Dart](https://img.shields.io/badge/Dart-90%25-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### HTML
-![HTML](https://img.shields.io/badge/HTML-80%25-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-### CSS
-![CSS](https://img.shields.io/badge/CSS-75%25-1572B6?style=flat-square&logo=css3&logoColor=white)
+- 🔭 Working on **Flutter-based E-Commerce & Portfolio Projects**
+- 🌍 Passionate about **Full Stack Development**
+- 💬 Ask me about **Flutter, Dart, UI Design, GetX, or Firebase**
+- 📫 How to reach me:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Owais%20Raza-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/owais-raza-47273a347)  
+  [![Facebook](https://img.shields.io/badge/Facebook-Flutter%20with%20Owais%20Raza-blue?style=flat&logo=facebook)](https://www.facebook.com/profile.php?id=100092592484103)  
+  [![GitHub](https://img.shields.io/badge/GitHub-OwaisRaza1941-black?style=flat&logo=github)](https://github.com/OwaisRaza1941)
 
 ---
 
-## 🔗 Contact
-
-- 📩 [LinkedIn](https://www.linkedin.com/in/owais-raza-47273a347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-- 📘 Facebook: **Flutter with Owais Raza**
-
----
-
-## 🛠️ Tech Stack I Use:
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![DartPad](https://img.shields.io/badge/DartPad-2b2e4a?style=for-the-badge&logo=dart&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Owais Raza's GitHub stats](https://github-readme-stats.vercel.app/api?username=OwaisRaza1941&show_icons=true&theme=radical)
-
----
-
-## 📽️ Featured Project
-
-Check out a demo of my work below 👇  
-*Add your video or project link here later*
-
----
-
-## 🎯 Achievements
-
-- 🏆 Consistently improving mobile UI/UX  
-- 🚀 Completed several Flutter mini-projects  
-- 💬 Open for collaborations and freelance projects
-
----
-
-*Let’s connect and build something awesome together!*
+⭐ **“Code. Learn. Build. Repeat.”** 🚀
