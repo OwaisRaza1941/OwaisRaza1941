@@ -3,11 +3,12 @@ I'm **Owais Raza**
 Passionate Web & Mobile App Developer | Flutter • Dart • GetX • Firebase • SQLite • HTML • CSS • JavaScript
 
 
----
 
 <p align="left">
   <strong>Passionate Flutter Developer building scalable cross-platform apps.</strong>
 </p>
+
+---
 
 <!-- Animated Typing Text -->
 <p align="center">
