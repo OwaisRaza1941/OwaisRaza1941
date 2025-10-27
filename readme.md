@@ -6,7 +6,7 @@
 ---
 
 <!-- Animated Typing Text for Flutter Developer Enthusiast -->
-<p align="left">
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Flutter+Developer+Enthusiast" alt="Flutter Developer Enthusiast"/>
 </p>
 
