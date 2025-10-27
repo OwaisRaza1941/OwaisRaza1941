@@ -1,3 +1,7 @@
+## Hi there 👋
+I'm **Owais Raza**
+🚀 Web & Mobile Developer | Flutter | Dart | JavaScript | Firebase | Supabase | HTML | CSS
+
 <!-- README for Owais Raza - Customized Version with Lottie Animation and Animated Text -->
 
 <p align="left">
