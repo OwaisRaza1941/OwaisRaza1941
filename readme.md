@@ -1,11 +1,7 @@
-<h2>Hi There 👋 <img src="https://github.com/user-attachments/assets/a331c626-54ef-4b85-9abd-7e9866d8bd79" width="50"/></h2>
-
-
-### I'm Owais Raza!
-
+<h2>Hi There</h2>
+<h2> I'm Owais Raza! </h2>
 
 🚀 Passionate Web & Mobile Developer | Flutter & Dart | Open Source Contributor 🌟 | Let's code the future together! 💻😊
-
 
 ---
 
