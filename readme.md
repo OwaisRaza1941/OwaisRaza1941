@@ -1,16 +1,9 @@
 ## Hi there 👋
 I'm **Owais Raza**
-🚀 Web & Mobile Developer | Flutter | Dart | JavaScript | Firebase | Supabase | HTML | CSS
+🚀 Flutter | Dart | GetX | Firebase | SQLite (sqflite) | HTML | CSS | JavaScript | Web & Mobile App Developer (Android/iOS)
 
-<!-- README for Owais Raza - Customized Version with Lottie Animation and Animated Text -->
 
-<p align="left">
-  <!-- Lottie Animation Top -->
-  <img src="https://user-images.githubusercontent.com/67586773/170823735-8cfa6308-2821-479e-8abf-8593f26c3da3.gif" width="300"/>
-</p>
 
-<h1 align="left">Hi, I'm Owais Raza</h1>
-<h3 align="left">Flutter Developer | Frontend Specialist</h3>
 
 <!-- Animated Typing Text -->
 <p align="left">
