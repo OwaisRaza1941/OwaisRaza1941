@@ -10,6 +10,9 @@ Passionate Web & Mobile App Developer | Flutter • Dart • GetX • Firebase �
 
 ---
 
+<img src="https://github.com/user-attachments/assets/db79aa2c-e36f-409e-9018-037637145ffa" width="300"/>
+
+
 <!-- Animated Typing Text -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Flutter+Developer;Frontend+Engineer;UI+UX+Lover;Clean+Code+Writer;Open+Source+Contributor"/>
