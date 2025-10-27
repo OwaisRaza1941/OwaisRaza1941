@@ -5,8 +5,14 @@
 
 ---
 
-<img src="https://github.com/user-attachments/assets/38d525e1-48e2-4a4d-baa5-2ddb365737af" width="450"/>
+<!-- Animated Typing Text for Flutter -->
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=8A2BE2&center=true&vCenter=true&width=400&lines=Flutter" alt="Flutter"/>
+</p>
 
+---
+
+<img src="https://github.com/user-attachments/assets/38d525e1-48e2-4a4d-baa5-2ddb365737af" width="450"/>
 
 ## 🔧 Tech Stack
 <div align="left">
