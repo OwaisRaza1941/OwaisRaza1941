@@ -10,7 +10,7 @@ Passionate Web & Mobile App Developer | Flutter • Dart • GetX • Firebase �
 
 ---
 
-<img src="https://github.com/user-attachments/assets/db79aa2c-e36f-409e-9018-037637145ffa" width="300"/>
+<img src="https://github.com/user-attachments/assets/3e54d07e-3488-4df3-9ea8-5cf634edc498" width="280"/>
 
 
 <!-- Animated Typing Text -->
