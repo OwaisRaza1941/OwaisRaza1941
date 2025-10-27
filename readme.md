@@ -6,7 +6,7 @@
 ---
 
 
-<img src="https://github.com/user-attachments/assets/38d525e1-48e2-4a4d-baa5-2ddb365737af" width="50"/>
+<img src="https://github.com/user-attachments/assets/38d525e1-48e2-4a4d-baa5-2ddb365737af" width="450"/>
 
 ## 🔧 Tech Stack
 <div align="left">
