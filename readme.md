@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Lottie Animation Top -->
-  <img src="https://assets2.lottiefiles.com/packages/lf20_touohxv0.json" width="200"/>
+  <img src="https://user-images.githubusercontent.com/67586773/170823735-8cfa6308-2821-479e-8abf-8593f26c3da3.gif" width="300"/>
 </p>
 
 <h1 align="center">Hi, I'm Owais Raza</h1>
@@ -63,6 +63,7 @@ Here are some of my highlighted projects:
 <p align="center">
   <a href="https://github.com/OwaisRaza1941"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/owais-raza-47273a347"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://facebook.com/FlutterWithOwaisRaza"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="mailto:owaisraza55670@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
