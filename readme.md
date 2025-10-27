@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm **Owais Raza**
-🚀 Flutter | Dart | GetX | Firebase | SQLite (sqflite) | HTML | CSS | JavaScript | Web & Mobile App Developer (Android/iOS)
+Passionate Web & Mobile App Developer | Flutter • Dart • GetX • Firebase • SQLite • HTML • CSS • JavaScript
 
 
 ---
