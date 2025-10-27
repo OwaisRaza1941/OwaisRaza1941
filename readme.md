@@ -1,10 +1,16 @@
-<!-- README for Owais Raza - AnisaIdrees style adapted -->
+<!-- README for Owais Raza - Customized Version with Lottie Animation and Animated Text -->
+
+<p align="center">
+  <!-- Lottie Animation Top -->
+  <img src="https://assets2.lottiefiles.com/packages/lf20_touohxv0.json" width="200"/>
+</p>
 
 <h1 align="center">Hi, I'm Owais Raza</h1>
 <h3 align="center">Flutter Developer | Frontend Specialist</h3>
 
+<!-- Animated Typing Text -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnisaIdrees/AnisaIdrees/main/typing.svg" alt="Typing" width="280"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Flutter+Developer;Frontend+Engineer;UI+UX+Lover;Clean+Code+Writer;Open+Source+Contributor"/>
 </p>
 
 <p align="center">
@@ -17,100 +23,49 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" title="Flutter"/><br/>Flutter
-      </td>
-      <td align="center" style="padding:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" title="Dart"/><br/>Dart
-      </td>
-      <td align="center" style="padding:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" title="HTML"/><br/>HTML
-      </td>
-      <td align="center" style="padding:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" title="CSS"/><br/>CSS
-      </td>
-      <td align="center" style="padding:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48" title="Firebase"/><br/>Firebase
-      </td>
-      <td align="center" style="padding:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" title="SQLite"/><br/>sqflite
-      </td>
-      <td align="center" style="padding:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" title="Git"/><br/>Git
-      </td>
-      <td align="center" style="padding:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" title="GitHub"/><br/>GitHub
-      </td>
-      <td align="center" style="padding:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" title="VS Code"/><br/>VS Code
-      </td>
-      <td align="center" style="padding:8px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48" title="Android Studio"/><br/>Android Studio
-      </td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"/><br/>Flutter</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48"/><br/>Dart</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/>CSS</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"/><br/>Firebase</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48"/><br/>sqflite</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>Git</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br/>GitHub</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br/>VS Code</td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48"/><br/>Android Studio</td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 🌱 Currently Exploring
-- ✅ Advanced Flutter UI Animations  
-- ✅ GetX (Advanced State Management)  
-- ✅ sqflite (SQLite) & Local Storage patterns  
-- ✅ Firebase Authentication & Firestore integrations  
-- ✅ App Testing, Debugging & CI considerations  
-- ✅ Lottie (animations — skill mentioned)
+## 🚀 Projects
+Here are some of my highlighted projects:
 
----
-
-## 📌 GitHub Highlights
-<div align="center">
-  <!-- Images used by Anisa for visual highlights — keep these placeholders or replace with your own -->
-  <img src="https://github.com/AnisaIdrees/AnisaIdrees/raw/main/gh-highlights-1.png" alt="highlight-1" height="80"/>
-  <img src="https://github.com/AnisaIdrees/AnisaIdrees/raw/main/gh-highlights-2.png" alt="highlight-2" height="80"/>
-</div>
-
----
-
-## 🎯 Recruiter Tracking
-- Open for Flutter / Frontend / Internship opportunities  
-- Strong: Flutter, Responsive UI, GetX, Local DB (sqflite)  
-- Expanding into: Full-stack integrations with Firebase & deployment pipelines  
-- Goal 2025: Build production-ready apps and land remote opportunities
+| Project Name | Description | Tech |
+|--------------|-------------|------|
+| Note + Todo App | Local storage based notes + todo manager | Flutter, GetX, SQLite |
+| E-Commerce App | Cart + Favorites + Search + Filter + GetX | Flutter, Firebase |
+| Blog App | Simple blog web app | JavaScript |
+| Doctor Appointment Booking | UI + Functionality practice | HTML/CSS/JS |
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OwaisRaza1941&show_icons=true&theme=dark&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisRaza1941&layout=compact&langs_count=6&theme=dark&hide=CSS,HTML" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=OwaisRaza1941&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisRaza1941&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-**Most used languages:** Dart • C++ • JavaScript
-
 ---
 
-## 🧾 Popular Repositories
-- **blogApp** — small blog project (JavaScript)  
-- **doctorBooking-Appoinment** — practice project (JS/HTML)  
-- **teamwork-project / codeCraft** — collaborative front-end projects  
-
-> (GitHub automatically shows your pinned/popular repos — update pinned repos from your profile.)
-
----
-
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 <p align="center">
-  <a href="https://github.com/OwaisRaza1941"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/></a>
-  &nbsp;
+  <a href="https://github.com/OwaisRaza1941"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/owais-raza-47273a347"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
   <a href="mailto:owaisraza55670@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
 ✨ "Turning ideas into beautiful, high-performance apps." ✨
-
----
-*Made with ❤️ using Flutter & lots of coffee.*
