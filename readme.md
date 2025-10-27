@@ -1,23 +1,11 @@
-## Hi there 👋
-I'm **Owais Raza**
-Passionate Web & Mobile App Developer | Flutter • Dart • GetX • Firebase • SQLite • HTML • CSS • JavaScript
-
-
-
-<p align="left">
-  <strong>Passionate Flutter Developer building scalable cross-platform apps.</strong>
-</p>
-
----
-<img src="https://github.com/user-attachments/assets/43d5d97a-12fc-4da7-9304-f98c475dee26" width="450"/>
-
-
-<!-- Animated Typing Text -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Flutter+Developer;Frontend+Engineer;UI+UX+Lover;Clean+Code+Writer;Open+Source+Contributor"/>
-</p>
-
-
+<table><tr>
+<td><img src="https://github.com/user-attachments/assets/a331c626-54ef-4b85-9abd-7e9866d8bd79" width="50" style="vertical-align:middle;"/></td>
+<td>
+<h2>Hi There 👋</h2>
+### I'm Owais Raza!
+🚀 Passionate Web & Mobile Developer | Flutter & Dart | Open Source Contributor 🌟 | Let's code the future together! 💻😊
+</td>
+</tr></table>
 
 ---
 
@@ -25,16 +13,16 @@ Passionate Web & Mobile App Developer | Flutter • Dart • GetX • Firebase �
 <div align="left">
   <table>
     <tr>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"/><br/>Flutter</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48"/><br/>Dart</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/>CSS</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"/><br/>Firebase</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48"/><br/>sqflite</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>Git</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br/>GitHub</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br/>VS Code</td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48"/><br/>Android Studio</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48"/><br/>Flutter</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48"/><br/>Dart</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/>CSS</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="48"/><br/>Firebase</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48"/><br/>sqflite</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>Git</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br/>GitHub</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/><br/>VS Code</td>
+      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="48"/><br/>Android Studio</td>
     </tr>
   </table>
 </div>
