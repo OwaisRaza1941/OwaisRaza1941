@@ -3,16 +3,19 @@ I'm **Owais Raza**
 🚀 Flutter | Dart | GetX | Firebase | SQLite (sqflite) | HTML | CSS | JavaScript | Web & Mobile App Developer (Android/iOS)
 
 
+---
 
+<p align="left">
+  <strong>Passionate Flutter Developer building scalable cross-platform apps.</strong>
+</p>
 
+---
 <!-- Animated Typing Text -->
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Flutter+Developer;Frontend+Engineer;UI+UX+Lover;Clean+Code+Writer;Open+Source+Contributor"/>
 </p>
 
-<p align="left">
-  <strong>Passionate Flutter Developer building scalable cross-platform apps.</strong>
-</p>
+
 
 ---
 
