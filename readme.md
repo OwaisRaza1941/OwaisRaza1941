@@ -1,23 +1,11 @@
-<h2 align="center">
-  Hi There <img src="https://github.com/user-attachments/assets/2992c28a-ec1c-485d-af43-99d24936de0e" width="35"/>
-</h2>
-
-<h1 align="center">I'm Owais Raza 👋</h1>
+<h1 align="center">Hi 👋, I'm Owais Raza</h1>
 
 <h3 align="center">
 Flutter Developer | Building Android, iOS & Flutter Web Applications with Flutter & Firebase
 </h3>
 
----
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00BFFF&center=true&vCenter=true&width=650&lines=Flutter+Developer;Android+%7C+iOS+%7C+Flutter+Web;Firebase+%7C+GetX+%7C+MVVM;Open+to+Freelance+Opportunities" />
-</p>
-
----
-
-<p align="center">
-<img src="https://github.com/user-attachments/assets/38d525e1-48e2-4a4d-baa5-2ddb365737af" width="420"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Android+%7C+iOS+%7C+Flutter+Web;Firebase+%7C+REST+API+%7C+GetX;MVVM+%7C+Clean+Architecture;Open+to+Freelance+Opportunities" />
 </p>
 
 ---
@@ -26,10 +14,10 @@ Flutter Developer | Building Android, iOS & Flutter Web Applications with Flutte
 
 - 📱 Flutter Developer from Pakistan 🇵🇰
 - 🚀 Building Android, iOS & Flutter Web Applications
-- 🔥 Skilled in Flutter, Dart, Firebase, GetX & REST APIs
+- 🔥 Skilled in Flutter, Dart, Firebase, REST APIs & GetX
 - 🏗️ Following MVVM & Clean Architecture
 - 🌱 Currently learning AI & Data Science
-- 💼 Open to Freelance & Remote Opportunities
+- 💼 Open to Freelance Opportunities
 
 ---
 
@@ -37,60 +25,57 @@ Flutter Developer | Building Android, iOS & Flutter Web Applications with Flutte
 
 <p align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,git,github,vscode,androidstudio"/>
 
 </p>
 
-### Technologies
+<p align="center">
 
-- Flutter
-- Dart
-- Firebase Authentication
-- Cloud Firestore
-- Firebase Cloud Messaging (FCM)
-- REST API Integration
-- GetX State Management
-- SQLite
-- Shared Preferences
-- MVVM Architecture
-- Clean Architecture
-- Git & GitHub
+<img src="https://img.shields.io/badge/GetX-State_Management-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST-API-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Firestore-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-Authentication-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Shared-Preferences-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVVM-Architecture-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean-Architecture-success?style=for-the-badge"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
 | Project | Description | Technologies |
-|----------|-------------|-------------|
-| 🍔 Food Delivery App | Responsive food ordering application with Firebase Authentication and Cloud Firestore | Flutter • Firebase • GetX • MVVM |
-| 🛒 SwiftCart | Grocery e-commerce app with cart, favourites and category filtering | Flutter • Firebase • REST API • GetX |
-| 💬 AI Chat App | Real-time AI chat application with secure authentication | Flutter • Firebase • GetX |
-| 🌐 Portfolio Website | Responsive Flutter portfolio deployed on Vercel | Flutter Web |
+|---------|-------------|--------------|
+| 🍔 **Food Delivery App** | Responsive food ordering application with Firebase Authentication and Cloud Firestore | Flutter • Firebase • GetX • MVVM |
+| 🛒 **SwiftCart** | Grocery shopping application with cart, favourites and category filtering | Flutter • Firebase • REST API • GetX |
+| 💬 **AI Chat App** | Real-time AI chat application with secure authentication | Flutter • Firebase • GetX |
+| 🌐 **Portfolio Website** | Responsive Flutter Web portfolio deployed on Vercel | Flutter Web |
 
 ---
 
 # 🌐 Portfolio
 
-🔗 **Portfolio Website**
+### 🔗 Portfolio Website
 
-https://my-portfolio-kohl-ten-61.vercel.app/
+**https://my-portfolio-kohl-ten-61.vercel.app/**
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=OwaisRaza1941&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=OwaisRaza1941&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisRaza1941&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OwaisRaza1941&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=OwaisRaza1941&theme=tokyonight&hide_border=true"/>
 
 </p>
 
